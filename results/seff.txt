@@ -1,0 +1,12 @@
+Job ID: 22734678
+Array Job ID: 22734647_1
+Cluster: shen
+User/Group: caj6xv/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 2
+CPU Utilized: 00:00:09
+CPU Efficiency: 32.14% of 00:00:28 core-walltime
+Job Wall-clock time: 00:00:14
+Memory Utilized: 1.71 GB
+Memory Efficiency: 10.67% of 16.00 GB (16.00 GB/node)

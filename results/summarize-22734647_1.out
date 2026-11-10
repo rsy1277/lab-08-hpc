@@ -1,0 +1,5 @@
+INFO Task 1: /sfs/weka/scratch/caj6xv/books/pg1013.txt
+INFO Running Qwen/Qwen2.5-1.5B-Instruct on cuda
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 86008.30it/s]
+INFO Book: pg1013.txt, Genre: science fiction, Time: 4.8 s
+Summarized pg1013.txt in 4.8 s on udc-aw37-1
